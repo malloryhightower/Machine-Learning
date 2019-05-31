@@ -1,5 +1,5 @@
 # Machine-Learning
-ML projects from the Machine Learning SMU MSDS 
+ML projects for Machine Learning SMU MSDS 
 
 These Python code files were submitted as HW/projects for the Machine Learning class in the SMU MSDS program.
 
